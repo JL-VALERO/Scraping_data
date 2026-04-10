@@ -30,7 +30,7 @@ from urllib.parse import urljoin
    
 5. How to run the script?
    
-   Ejecuta el script python scraper.py
+   Ejecuta el script python scraper.ipynb
    El script accederá a la página de resultados de la UNMSM, detectará todos los enlaces de resultados profesionales,
    extraerá los datos de cada tabla y generará automáticamente los archivos finales.
    
