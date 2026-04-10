@@ -14,14 +14,18 @@
     pip install requests beautifulsoup4 pandas openpyxl
 
 import pandas as pd
+
 import time
+
 import requests
-import base64          -En el HTML de UNMSM el nombre del postulante esta codificado en base64.
+
+import base64         
 
 -Herramientas recomendados por codex-openai para web scraping
 
-from bs4 import BeautifulSoup      #Para leer y analizar el HTML 
-from urllib.parse import urljoin   #para unir enlaces relativos con la URL base
+from bs4 import BeautifulSoup  
+
+from urllib.parse import urljoin   
 
    
 5. How to run the script?
